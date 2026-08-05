@@ -3,7 +3,7 @@
 This repository contains the full analytical workflow supporting the manuscript:
 
 > **“From forest to fields: The role of soil microbiome spillover in agroecosystem sustainability”**  
-> *Submitted to Science Advances*
+> *Submitted to Soil Biology and Biochemistry*
 
 ---
 
