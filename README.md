@@ -3,7 +3,7 @@
 This repository contains the full analytical workflow supporting the manuscript:
 
 > **“From forest to fields: Surrounding forest cover shapes orchard soil microbiomes and soil respiration”**  
-> *Submitted to Soil Biology and Biochemistry*
+> *Submitted to Journal of Applied Ecology*
 
 ---
 
