@@ -2,7 +2,7 @@
 
 This repository contains the full analytical workflow supporting the manuscript:
 
-> **“From forest to fields: The role of soil microbiome spillover in agroecosystem sustainability”**  
+> **“From forest to fields: Surrounding forest cover shapes orchard soil microbiomes and soil respiration”**  
 > *Submitted to Soil Biology and Biochemistry*
 
 ---
