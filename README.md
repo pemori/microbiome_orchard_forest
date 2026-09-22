@@ -77,6 +77,3 @@ openxlsx
 ```
 
 
-✉️ Contact
-Pedro Mondaca Rivera
-pedro.mondaca@outlook.com
